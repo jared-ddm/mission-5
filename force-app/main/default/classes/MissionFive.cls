@@ -17,6 +17,5 @@ public class MissionFive {
                 System.debug(num);
             }
         }
-    }
-    
+    }    
 }
